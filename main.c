@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 void A() {
-    printf("I'm A\n");
+    printf("I'm the motherfucking A\n");
 }
 void B() {
     printf("I'm B\n");
