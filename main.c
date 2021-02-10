@@ -8,7 +8,7 @@ void B() {
 }
 
 void C() {
-    printf("I'm C\n");
+    printf("I'm C__\n");
 }
 
 int main() {
