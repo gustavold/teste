@@ -6,7 +6,13 @@ void A() {
 void B() {
     printf("I'm B\n");
 }
+
+void C() {
+    printf("I'm C\n");
+}
+
 int main() {
     A();
     B();
+    C();
 }
